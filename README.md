@@ -2,6 +2,8 @@
 
 A sophisticated Text-to-SQL system built with **LangChain**, **LangGraph**, and modern web technologies. This system converts natural language questions into SQL queries using Retrieval-Augmented Generation (RAG) with advanced features like self-correction, query optimization, and real-time execution.
 
+![image](https://github.com/user-attachments/assets/ff18dce0-097e-4b40-b7ba-8114e63a1f0e)
+
 ## ✨ Features
 
 ### 🔍 Advanced RAG System
